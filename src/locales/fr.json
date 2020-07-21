@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Kapture Journal"
+  },
+  "default": {
+    "waiting": "en attendant la rencontre...",
+    "questions": "questions / idées?",
+    "discord": "ejoindre le serveur discord"
+  },
+  "actions": {
+    "view-loot": "Voir le butin",
+    "reset-loot": "Réinitialiser le butin",
+    "load-sample-data": "Charger un échantillon",
+    "reset-all": "Effacer tout",
+    "reset": "Annuler",
+    "save": "Sauver"
+  },
+  "views": {
+    "general-style": "Style général",
+    "loot-type": "Type de butin",
+    "advanced": "Avancé"
+  },
+  "settings": {
+    "language": "Langue",
+    "background-color": "Couleur de l'arrière plan",
+    "font-color": "Couleur de la police",
+    "opacity": "Opacité",
+    "logging": "Activer la journalisation",
+    "always-show-splash": "Toujours montrer la bienvenue",
+    "show-discord": "Afficher les informations DISCORD",
+    "row-color-add-loot": "Ajouter de la couleur",
+    "row-color-greed-loot": "Couleur de la cupidité",
+    "row-color-need-loot": "Besoin de couleur",
+    "row-color-cast-loot": "Couleur de fonte",
+    "row-color-obtain-loot": "Obtenir la couleur",
+    "row-color-lost-loot": "Couleur perdue"
+  }
+}

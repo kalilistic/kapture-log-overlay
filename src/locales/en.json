@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Kapture Log"
+  },
+  "default": {
+    "waiting": "waiting for loot..",
+    "questions": "questions / ideas?",
+    "discord": "join the discord server"
+  },
+  "actions": {
+    "view-loot": "View Loot",
+    "reset-loot": "Reset Loot",
+    "load-sample-data": "Load Sample Data",
+    "reset-all": "Reset All",
+    "reset": "Reset",
+    "save": "Save"
+  },
+  "views": {
+    "general-style": "General Style",
+    "loot-type": "Loot Type",
+    "advanced": "Advanced"
+  },
+  "settings": {
+    "language": "Language",
+    "background-color": "Background Color",
+    "font-color": "Font Color",
+    "opacity": "Opacity",
+    "logging": "Enable Logging",
+    "always-show-splash": "Always Show Splash",
+    "show-discord": "Show Discord Info",
+    "row-color-add-loot": "Add Color",
+    "row-color-greed-loot": "Greed Color",
+    "row-color-need-loot": "Need Color",
+    "row-color-cast-loot": "Cast Color",
+    "row-color-obtain-loot": "Obtain Color",
+    "row-color-lost-loot": "Lost Color"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Kapture Log"
+  },
+  "default": {
+    "waiting": "warten auf begegnung...",
+    "questions": "fragen / ideen?",
+    "discord": "tritt dem zwietracht-server bei"
+  },
+  "actions": {
+    "view-loot": "Beute zurücksetzen",
+    "reset-loot": "Beute zurücksetzen",
+    "load-sample-data": "Alle zurücksetzen",
+    "reset-all": "Alles zurücksetzen",
+    "reset": "Zurücksetzen",
+    "save": "Speichern"
+  },
+  "views": {
+    "general-style": "Allgemeiner Stil",
+    "loot-type": "Beutetyp",
+    "advanced": "Fortgeschrittene"
+  },
+  "settings": {
+    "language": "Sprache",
+    "background-color": "Hintergrundfarbe",
+    "font-color": "Schriftfarbe",
+    "opacity": "Opazität",
+    "logging": "Aktiviere das Logging",
+    "always-show-splash": "Splash immer anzeigen",
+    "show-discord": "Discord Info anzeigen",
+    "row-color-add-loot": "Farbe hinzufügen",
+    "row-color-greed-loot": "Gier Farbe",
+    "row-color-need-loot": "Brauchen Farbe",
+    "row-color-cast-loot": "Gussfarbe",
+    "row-color-obtain-loot": "Farbe erhalten",
+    "row-color-lost-loot": "Verlorene Farbe"
+  }
+}
