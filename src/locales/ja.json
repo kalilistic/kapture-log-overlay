@@ -3,9 +3,7 @@
     "title": "Kaptureログ"
   },
   "default": {
-    "waiting": "出会いを待っています..",
-    "questions": "質問/アイデア？",
-    "discord": "discordサーバーに参加"
+    "waiting": "出会いを待っています.."
   },
   "actions": {
     "view-loot": "戦利品を見る",
@@ -27,7 +25,6 @@
     "opacity": "不透明度",
     "logging": "ロギングを有効にします",
     "always-show-splash": "常にウェルカムを表示",
-    "show-discord": "DISCORD情報を表示",
     "row-color-add-loot": "色を追加",
     "row-color-greed-loot": "欲の色",
     "row-color-need-loot": "色が必要",

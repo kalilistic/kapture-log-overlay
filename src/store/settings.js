@@ -36,7 +36,6 @@ function initialState() {
     logging: false,
     alwaysShowSplash: false,
     latestSplashSeen: 0,
-    showDiscord: true,
     rowColorAddLoot: "#346624",
     rowColorGreedLoot: "#575353",
     rowColorNeedLoot: "#575353",
